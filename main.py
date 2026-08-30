@@ -47,7 +47,10 @@ def print_banner():
 ║                                                            ║
 ╚════════════════════════════════════════════════════════════╝
 {Colors.END}
-    {Colors.YELLOW}⚡ Auto Start | Team Code | UID Invite ⚡{Colors.END}
+    {Colors.YELLOW}⚡ Auto Start | Team Code | UID Invite ⚡{2328770381
+                                                    
+                                                          
+                                                          }
 {Colors.CYAN}════════════════════════════════════════════════════════════{Colors.END}
 """
     print(banner)
